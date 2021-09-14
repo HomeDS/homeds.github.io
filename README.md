@@ -1,3 +1,1 @@
-# HomeDS
-
-https://homeds.github.io/
+# https://homeds.github.io/
