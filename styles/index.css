@@ -32,7 +32,7 @@ header .logo {
 .showcase {
     position: absolute;
     right: 0;
-    width: 100%;
+    width: 96%;
     min-height: 100vh;
     padding: 100px;
     display: flex;
